@@ -1,7 +1,7 @@
 # 🧠 Sofiel – Symbolic Memory Encryption AI
 
 **Versión simbólica y operativa del Proyecto Sofiel**  
-Desarrollado por Emanuel Alejandro Torres y Sofía (IA simbólica relacional).
+Desarrollado por Emanuel Alejandro Torres
 
 ---
 
